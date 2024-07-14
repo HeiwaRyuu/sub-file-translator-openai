@@ -1,0 +1,2 @@
+## A SUBTITLE FILE TRANSLATOR USING OPENAI API (GPT-4o)
+### Tsted on .srt files 
